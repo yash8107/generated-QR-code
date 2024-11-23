@@ -19,7 +19,7 @@ Installation:
 
 <b><i>npm install</i></b>
 
-<b>npm start</b>
+<b><i>npm start</i></b>
 
 <h2>Example:</h2>
 To generate a QR code for the URL https://www.facebook.com:
