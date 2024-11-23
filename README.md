@@ -18,6 +18,7 @@ Installation:
 <h3>#command to run</h3>
 
 <b><i>npm install</i></b>
+
 <b>npm start</b>
 
 <h2>Example:</h2>
