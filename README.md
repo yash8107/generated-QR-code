@@ -31,6 +31,20 @@ The QR code image will be saved in the project directory with the name qr_img.pn
 Example:
 To generate a QR code for the URL https://www.facebook.com:
 
+Contributing
+Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contribution you make would be appreciated.
+
+<!-- CONTRIBUTING -->
+# Contributing ✨
+
+Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contribution you make would be **appreciated**.
+
+1. Fork the Project
+2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the Branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request 
+
 Start the QR code generator as described in the Usage section.
 Enter the URL https://www.facebook.com when prompted and press Enter.
 The QR code will be created and saved as qr_img.png in the project directory.
