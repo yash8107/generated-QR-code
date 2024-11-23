@@ -20,17 +20,17 @@ Installation:
 npm install
 npm start
 
-Enter Data:
-When prompted, enter the data you want to encode into a QR code. This can be text, a URL, contact details, or any QR code-compatible data format.
+<h2>Example:</h2>
+To generate a QR code for the URL https://www.facebook.com:
 
-Generate QR Code:
+<h3>Enter the URL to generate a QR code:</h3>
+Enter the data you want to encode into a QR code. This can be text, a URL, contact details, or any QR code-compatible data format.
+
+<h3>Generate QR Code:</h3>
 Once you press Enter, the program will generate a QR code image.
 
-Access the QR Code:
+<h3>Access the QR Code:</h3>h3
 The QR code image will be saved in the project directory with the name qr_img.png.
-
-Example:
-To generate a QR code for the URL https://www.facebook.com:
 
 <!-- CONTRIBUTING -->
 # Contributing ✨
