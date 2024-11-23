@@ -14,7 +14,8 @@ Installation:
    Open a terminal, navigate to the project's root directory, and run the following command to install all required dependencies:
 
 ![Sample](image.png)
-command to run
+
+#command to run
 
 npm install
 npm start
@@ -30,9 +31,6 @@ The QR code image will be saved in the project directory with the name qr_img.pn
 
 Example:
 To generate a QR code for the URL https://www.facebook.com:
-
-Contributing
-Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contribution you make would be appreciated.
 
 <!-- CONTRIBUTING -->
 # Contributing ✨
